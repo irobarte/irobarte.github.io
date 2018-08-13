@@ -43,6 +43,6 @@ Adjunct Instruction Librarian `|` University of Northern Iowa `|` 2016
 
 <br>
 
-<p class="text-center>
+<p class="text-center">
   <button type="button" class="btn btn-default btn-lg">Download CV</button>
 </p>
