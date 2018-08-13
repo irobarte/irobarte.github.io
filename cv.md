@@ -40,3 +40,9 @@ Adjunct Instruction Librarian `|` University of Northern Iowa `|` 2016
 > Arteaga, R. A. & Moeller C. M. Charting the Library Firmament: Transforming Teaching to Create Meaningful Learning Experiences for Students. Presented at LOEX 2017. May 2017.
 
 > Moeller C. M. & Arteaga, R. A. More than Sources: Shifting from LibGuide Practice to LibGuide Praxis. Presented at Information Literacy Summit. April 2016.
+
+<br>
+
+<p class="text-center>
+  <button type="button" class="btn btn-default btn-lg">Download CV</button>
+</p>
