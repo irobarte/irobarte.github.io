@@ -5,16 +5,10 @@ bigimg:
   - "/img/big-imgs/stack.jpg"
 ---
 
-<div class="media">
-  <div class="media-body">
-    <h4 class="media-heading">UW-Stout Portfolio</h4>
-    Portfolio for UWS Instructional Design Certificate Program.
-  </div>
-</div>
+### [UW-Stout Portfolio](https://irobarte.github.io/uws/)
+Portfolio for UWS Instructional Design Certificate Program.
 
-<div class="media">
-  <div class="media-body">
-    <h4 class="media-heading">UW-Stout Portfolio</h4>
-    Portfolio for UWS Instructional Design Certificate Program.
-  </div>
-</div>
+---
+
+### [UW-Stout Portfolio](https://irobarte.github.io/uws/)
+Portfolio for UWS Instructional Design Certificate Program.
