@@ -8,7 +8,7 @@ bigimg:
 <div class="media">
   <div class="media-left">
     <a href="https://irobarte.github.io/uws/">
-      <img class="media-object" src="/img/project.jpg" alt="project image">
+      <img class="media-object" src="/img/project.jpg" alt="project image" style="width:64px; height:64px;">
     </a>
   </div>
   <div class="media-body">
