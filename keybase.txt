@@ -1,1 +1,56 @@
-keybase-site-verification=Waimlcn_Gr7MdkVtMqI-e0qPx1dVisQxGMPxDKjEE_M
+==================================================================
+https://keybase.io/raa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://irobarte.github.io
+  * I am raa (https://keybase.io/raa) on keybase.
+  * I have a public key ASD4rMfTJJZOiuuLawNiil7Ykfi2ygZ_QFb2hQzQ-RCYZAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f8acc7d324964e8aeb8b6b03628a5ed891f8b6ca067f4056f6850cd0f91098640a",
+      "host": "keybase.io",
+      "kid": "0120f8acc7d324964e8aeb8b6b03628a5ed891f8b6ca067f4056f6850cd0f91098640a",
+      "uid": "7d2e81fadfa8cdee031d1838b4f24619",
+      "username": "raa"
+    },
+    "merkle_root": {
+      "ctime": 1534356959,
+      "hash": "51735ffaa676ac964016f42b2530094a2375628d77cf00f587e083cf2d969c16bad532e70dd2e9778d08c0d378849ee0d9da67fc289f62f32c0ed2d31f6406ec",
+      "hash_meta": "0f827e6d2c48581d7119e93ccc6f3ec828de24b6c73c6773abe37171851d834d",
+      "seqno": 3460398
+    },
+    "service": {
+      "entropy": "svnxpsDDYzoeZ44cFixi2oPC",
+      "hostname": "irobarte.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534356979,
+  "expire_in": 504576000,
+  "prev": "507af020d1cf694c600f680296c8212050142081a36f0598c4cad5efdb3f5b32",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+KzH0ySWTorri2sDYope2JH4tsoGf0BW9oUM0PkQmGQKp3BheWxvYWTESpcCEcQgUHrwINHPaUxgD2gClsghIFAUIIGjbwWYxMrV79s/WzLEIPbu+iA5ZxKicBL7/tegN/kEEkSz9D3zxz0ipUJgMfNJAgHCo3NpZ8RAwxqoiCcK/sQaEwAYVvJC1wKirWFN47cjZdF+JsCLZ+a+WBgwdiqbWkhrK2QRrcfK6QfJrIbb+juNme6opz4bBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL+lCJX5+Ssy/l8RBK/jOKttfw++wPwIxO6k7v1rlP1Do3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raa
+
+==================================================================
