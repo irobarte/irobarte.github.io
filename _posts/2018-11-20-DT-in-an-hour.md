@@ -1,5 +1,5 @@
 ---
-layout: paost
+layout: post
 title: Design Thinking in an Hour?
 subtitle: Presented at CLAPS 2018
 share-img:
