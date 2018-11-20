@@ -3,9 +3,9 @@ layout: post
 title: Design Thinking in an Hour?
 subtitle: Presented at CLAPS 2018
 share-img:
-  - "../img/big-imgs/DT.png"
+  - "../img/big-imgs/caution.png"
 bigimg:
-  - "../img/big-imgs/DT.png"
+  - "../img/big-imgs/caution.png"
 ---
 
 > The following is an adaptation of the notes for my CLAPS 2018 presentation. I have marked where there is a slide change. [Link to slides](https://bit.ly/dtclaps "Link to slides")
