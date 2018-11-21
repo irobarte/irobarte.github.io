@@ -13,6 +13,8 @@ bigimg:
 ### Part 1
 In my short time as a library worker and in higher education, I have noticed one thing: there are a lot of popular, innovative “things” that promise a lot but don’t always end up delivering. Overall, I can see why such “things” are popular and why they are adopted in many situations. However, I still wonder what is happening in some places that we are willing to ignore clear warning signs. Is it lack of information, pressure from higher ups, or is it just desperation? I’m sure we could dedicate a whole session, or a whole conference to talk about “trends” or “innovations,” but that’s not what I want to talk about today. However, I do want to ask you, why do you think those “new things” and “innovations” so often fail at delivering what they promised? **(slide change)**
 
+![DT Definition](../img/DTDefinition.png "DT Definition")
+
 One trend that is currently being discussed around higher education, libraries, and beyond, is Design Thinking. Design Thinking, according to the company (yes, the company) that it comes from, is a process for creative problem solving. **(slide change)** But in reality, the definition of Design Thinking is highly contested.
 
 At this point, it is impossible for me to say whether or not Design Thinking will live up to its promise of innovation. But the more I see it show up in conferences, publications, or in social media, the more I keep asking myself: why are people using it? **(slide change)** That’s why I wanted to do this presentation. I wanted to understand what makes Design Thinking so special. I wanted to know why people are using it. Plus, I wanted to see if I could use it in my practice, because in the end, I want my work to be the best that it can be. **(slide change)**
