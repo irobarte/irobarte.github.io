@@ -8,7 +8,7 @@ bigimg:
   - "../img/big-imgs/caution.png"
 ---
 
-> The following is an adaptation of the notes for my CLAPS 2018 presentation. I have marked where there is a slide change. <a href="../dl/Design Thinking in an Hour (Notes).pdf" download="DT in an Hour - Notes">Link to notes</a>. <a href="../dl/Design Thinking in an Hour (Slides).pdf" download="DT in an Hour - Slides">Link to slides</a>. 
+> The following is an adaptation of the notes for my CLAPS 2018 presentation. <a href="../dl/Design Thinking in an Hour (Notes).pdf" download="DT in an Hour - Notes">Link to notes</a>. <a href="../dl/Design Thinking in an Hour (Slides).pdf" download="DT in an Hour - Slides">Link to slides</a>. 
 
 ### Part 1
 In my short time as a library worker and in higher education, I have noticed one thing: there are a lot of popular, innovative “things” that promise a lot but don’t always end up delivering. Overall, I can see why such “things” are popular and why they are adopted in many situations. However, I still wonder what is happening in some places that we are willing to ignore clear warning signs. Is it lack of information, pressure from higher ups, or is it just desperation? I’m sure we could dedicate a whole session, or a whole conference to talk about “trends” or “innovations,” but that’s not what I want to talk about today. However, I do want to ask you, why do you think those “new things” and “innovations” so often fail at delivering what they promised?
