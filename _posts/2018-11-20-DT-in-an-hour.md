@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Thinking in an Hour? Or, Design Thinking: A Cautionary Tale
+title: Design Thinking in an Hour? Or, Design Thinking, A Cautionary Tale
 subtitle: Presented at CLAPS 2018
 share-img:
   - "../img/big-imgs/caution.png"
