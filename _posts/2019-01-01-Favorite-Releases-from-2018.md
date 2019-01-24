@@ -13,49 +13,31 @@ This was also the first year in which I purchased more digital albums than physi
 
 So, without further ado, I present to you my favorite release from 2018 in ascending order. Happy listening!!!
 
-### [Upon Desolate Sands - Hate Eternal](https://hateeternal.bandcamp.com/album/upon-desolate-sands)
-Country: United States
-
+### [Upon Desolate Sands - Hate Eternal (US)](https://hateeternal.bandcamp.com/album/upon-desolate-sands)
 Favorite track: [All Hope Destroyed](https://youtu.be/AbcI5clV1_k)
 
-### [Welcome to Bonkers - Nekrogoblikon](https://nekrogoblikon.bandcamp.com/album/welcome-to-bonkers)
-Country: United States
-
+### [Welcome to Bonkers - Nekrogoblikon (US)](https://nekrogoblikon.bandcamp.com/album/welcome-to-bonkers)
 Favorite track: [Darkness](https://youtu.be/sbAbBBrT3bE)
 
-### [Dirty Computer - Janelle Monáe](http://a.co/d/jgglkeb)
-Country: United States
-
+### [Dirty Computer - Janelle Monáe (US)](http://a.co/d/jgglkeb)
 Favorite track: [Make Me Feel](https://youtu.be/tGRzz0oqgUE) 
 
-### [Revenant - Inferi](https://inferi.bandcamp.com/album/revenant)
-Country: United States
-
+### [Revenant - Inferi (US)](https://inferi.bandcamp.com/album/revenant)
 Favorite Track: [Behold the Bearer of Light](https://youtu.be/DgLeSK6bI8A)
 
-### [NCT 2018 Empathy - NCT](http://a.co/d/0EX5DPX)
-Country: South Korea
-
+### [NCT 2018 Empathy - NCT (South Korea)](http://a.co/d/0EX5DPX)
 Favorite track: [The 7th Sense](https://youtu.be/yTmR-ogUXqo)
 
-### [The Weight of a Thousand Suns - Horizon Ablaze](https://horizon-ablaze.bandcamp.com/album/the-weight-of-a-thousand-suns)
-Country: Norway
-
+### [The Weight of a Thousand Suns - Horizon Ablaze (Norway)](https://horizon-ablaze.bandcamp.com/album/the-weight-of-a-thousand-suns)
 Favorite track: [Delusions of Grandeur](https://youtu.be/3T7Pr3oCNZw)
 
-### [Liquid Anatomy - Alkaloid](https://alkaloidsom.bandcamp.com/album/liquid-anatomy)
-Country: Germany
-
+### [Liquid Anatomy - Alkaloid (Germany)](https://alkaloidsom.bandcamp.com/album/liquid-anatomy)
 Favorite track: [In Turmoil’s Swirling Reaches](https://youtu.be/3b8xRljC_q8)
 
-### [Where Owls Know my Name - Rivers of Nihil](https://riversofnihil.bandcamp.com/album/where-owls-know-my-name)
-Country: United States
-
+### [Where Owls Know my Name - Rivers of Nihil (US)](https://riversofnihil.bandcamp.com/album/where-owls-know-my-name)
 Favorite track: [Subtle Change…](https://youtu.be/TYazmdSg4uU)
 
-### [Esoteric Malacology - Slugdge](https://slugdge.bandcamp.com/album/esoteric-malacology)
-Country: England
-
+### [Esoteric Malacology - Slugdge (England)](https://slugdge.bandcamp.com/album/esoteric-malacology)
 Favorite track: [Putric Fairytale](https://youtu.be/h4_7QI4ha2M)
 
 ## Honorable Mentions
